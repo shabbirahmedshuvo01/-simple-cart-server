@@ -17,7 +17,7 @@ app.use(express.json());
 
 
 // const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.khb8i.mongodb.net/?retryWrites=true&w=majority`;
-const uri = `mongodb+srv://task-cart:W6MsCDx1M2ZTd8mA@cluster0.khb8i.mongodb.net/?retryWrites=true&w=majority`;
+const uri = `mongodb+srv://task-cart:wsEoI7g0SwXinaSW@cluster0.khb8i.mongodb.net/?retryWrites=true&w=majority`;
 
 // console.log(uri)
 
